@@ -145,6 +145,16 @@
     },
     "subject": "Animate Closing the Last Pinned Tab in PinnedTabContainerView"
   },
+  "chromium%2Fsrc~8801251": {
+    "comment_ids": [],
+    "message_ids": [
+      "71da6fb9d440ae56b846ced9d689762c728e264b"
+    ],
+    "number": 8801251,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[Focus] Add Tooltip to Unfocus Button in Collapsed Vertical Tabs"
+  },
   "chromium%2Fsrc~8805155": {
     "comment_ids": [],
     "message_ids": [
