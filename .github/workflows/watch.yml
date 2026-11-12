@@ -1,0 +1,51 @@
+name: Watch Chromium CLs
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 min. GitHub may delay a few min under load.
+  workflow_dispatch:        # manual Run workflow button
+    inputs:
+      send_test:
+        description: "Send a test Telegram message instead of checking Gerrit"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # needed to commit state.json back
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check for new comments / +1s
+        env:
+          GERRIT_AUTHOR: ${{ vars.GERRIT_AUTHOR }}
+          NOTIFY_MODE: ${{ vars.NOTIFY_MODE }}   # e.g. telegram,email
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMS_GATEWAY_ADDRESS: ${{ secrets.SMS_GATEWAY_ADDRESS }}
+        run: |
+          if [ "${{ inputs.send_test }}" = "true" ]; then
+            python3 watcher.py --send-test
+          else
+            python3 watcher.py
+          fi
+
+      # Actions runners are stateless — commit state.json back so the
+      # next run knows what it already notified about.
+      - name: Save state
+        run: |
+          git config user.name "cl-watcher"
+          git config user.email "cl-watcher@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "Update watcher state [skip ci]"
+          git push
