@@ -124,7 +124,9 @@
     ],
     "number": 8798366,
     "plus_ones": [],
-    "review_votes": {},
+    "review_votes": {
+      "1296277": 1
+    },
     "subject": "Animate Closing the Last Pinned Tab in PinnedTabContainerView"
   },
   "chromium%2Fsrc~8805155": {
@@ -150,7 +152,9 @@
     ],
     "number": 8805155,
     "plus_ones": [],
-    "review_votes": {},
+    "review_votes": {
+      "1543407": 1
+    },
     "subject": "Reland \"[Focus] Harden Ephemeral Tab Group Handling in TabStripModel\""
   }
 }
