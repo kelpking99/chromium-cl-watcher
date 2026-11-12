@@ -87,11 +87,14 @@
       "2f0b48fc8142abae17de55e255d3872bf2b553cf",
       "46a0505e8008d0b682e66e707ee023818989dfd7",
       "696355b862299dbf6c5ccdedd54a3598b3f63e69",
-      "2c02b6cfc7f7f897d96da2dcdc178b64443ac5d0"
+      "2c02b6cfc7f7f897d96da2dcdc178b64443ac5d0",
+      "169cccdd1aa440732043acf8f59cc808176772c9"
     ],
     "number": 8792181,
     "plus_ones": [],
-    "review_votes": {},
+    "review_votes": {
+      "1510672": 1
+    },
     "subject": "[Focus] Expand Focused Mode To Follow Dragged Tab In Horizontal Tabs"
   },
   "chromium%2Fsrc~8798366": {
