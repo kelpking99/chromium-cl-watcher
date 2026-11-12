@@ -2,7 +2,7 @@ name: Watch Chromium CLs
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 min. GitHub may delay a few min under load.
+    - cron: "2-57/5 * * * *"   # every 5 min. GitHub may delay a few min under load.
   workflow_dispatch:        # manual Run workflow button
     inputs:
       send_test:
