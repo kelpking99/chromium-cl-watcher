@@ -73,10 +73,15 @@
       "a1a29695fe8b71f76d7e55592f0924ba97abfaec",
       "8ce27558a30aa43aa24f114b38c07c9923a7351c",
       "798b6f3ac98d5576fbee24e7a47257a04a609dd6",
-      "f131392d35ed7bd5bdacdb82a92bb80568a5d36e"
+      "f131392d35ed7bd5bdacdb82a92bb80568a5d36e",
+      "a0590a56944899cd90976809807c3361596abffd",
+      "a5d36ac23f9d3510d11a299ee7aaa6e0bc8aa067"
     ],
     "number": 8788010,
     "plus_ones": [],
+    "review_votes": {
+      "1543407": 1
+    },
     "subject": "[Focus] Split Ephemeral Tab Group Promotion Into Its Own Bubble"
   },
   "chromium%2Fsrc~8791986": {
