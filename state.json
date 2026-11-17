@@ -210,11 +210,22 @@
   "chromium%2Fsrc~8827710": {
     "comment_ids": [],
     "message_ids": [
-      "abcffb766c2782b42fe58166b86116dce0d87d95"
+      "abcffb766c2782b42fe58166b86116dce0d87d95",
+      "8f78cb7c77893fb61926df72085bf2f5a75de7c1"
     ],
     "number": 8827710,
     "plus_ones": [],
     "review_votes": {},
     "subject": "[CUJ] Add Split View Custom Events and Lifecycle Controller"
+  },
+  "chromium%2Fsrc~8833302": {
+    "comment_ids": [],
+    "message_ids": [
+      "d56ae867a6c9ef8472c9b8898449a5cd9531eced"
+    ],
+    "number": 8833302,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[CUJ] Register Split View Critical User Journey"
   }
 }
