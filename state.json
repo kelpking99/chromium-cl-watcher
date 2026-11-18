@@ -225,6 +225,16 @@
     "review_votes": {},
     "subject": "[CUJ] Add Split View Custom Events and Lifecycle Controller"
   },
+  "chromium%2Fsrc~8831233": {
+    "comment_ids": [],
+    "message_ids": [
+      "3de3edcffe344d422572ccfc07768068f7966736"
+    ],
+    "number": 8831233,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[CUJ] Add Tab Strip Focus Lifecycle Controller and Entry Plumbing"
+  },
   "chromium%2Fsrc~8833302": {
     "comment_ids": [],
     "message_ids": [
