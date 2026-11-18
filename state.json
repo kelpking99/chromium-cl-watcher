@@ -207,6 +207,17 @@
     },
     "subject": "Reland \"[Focus] Harden Ephemeral Tab Group Handling in TabStripModel\""
   },
+  "chromium%2Fsrc~8823781": {
+    "comment_ids": [],
+    "message_ids": [
+      "cb6665e020c85e5d307ae58046ace46003b564f1",
+      "44d8ccb34b02ee6bd41c6730148a3d7550e955a8"
+    ],
+    "number": 8823781,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[CUJ] Register Tab Group Focus Mode Critical User Journey"
+  },
   "chromium%2Fsrc~8827710": {
     "comment_ids": [],
     "message_ids": [
@@ -245,5 +256,15 @@
     "plus_ones": [],
     "review_votes": {},
     "subject": "[CUJ] Register Split View Critical User Journey"
+  },
+  "chromium%2Fsrc~8833912": {
+    "comment_ids": [],
+    "message_ids": [
+      "b016c533c9d1c0855d42658a1219e40872f59667"
+    ],
+    "number": 8833912,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[CUJ] Register Non-Group Focus Mode Critical User Journey"
   }
 }
