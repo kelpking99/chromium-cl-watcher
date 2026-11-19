@@ -324,11 +324,14 @@
       "e2d0953efe46d92e27bc915245db1c0f4009cf74",
       "58f816144f17943d7309277883909228ce3c3c9f",
       "c7e76b72820fd434c1f6fab8acc465de775450c4",
-      "03ae31ac38f3976d230c6b2172b508dbfa86d0b3"
+      "03ae31ac38f3976d230c6b2172b508dbfa86d0b3",
+      "1f5422c05db810759ace4f94375559f23bb0651a"
     ],
     "number": 8835110,
     "plus_ones": [],
-    "review_votes": {},
+    "review_votes": {
+      "1510672": 1
+    },
     "subject": "[Focus] Apply Focus Theme When Ephemeral Tab Group Is Promoted"
   },
   "chromium%2Fsrc~8839640": {
