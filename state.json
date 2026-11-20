@@ -382,6 +382,16 @@
     "review_votes": {},
     "subject": "[CUJ] Register Share Tab URL Critical User Journey"
   },
+  "chromium%2Fsrc~8841234": {
+    "comment_ids": [],
+    "message_ids": [
+      "471b60b402a300fdca705e64f04254fd5c277378"
+    ],
+    "number": 8841234,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[TabMenuModel] Fix Crash Adding Selected Tabs to Group in Other Window"
+  },
   "chromium%2Fsrc~8842096": {
     "comment_ids": [],
     "message_ids": [
@@ -427,5 +437,15 @@
     "plus_ones": [],
     "review_votes": {},
     "subject": "[Focus] Fix Null Widget Crash On Anchor Theme Change In Bubbles"
+  },
+  "chromium%2Fsrc~8848612": {
+    "comment_ids": [],
+    "message_ids": [
+      "d172431bd3e7c5a641813993b95d43f9a4e6141d"
+    ],
+    "number": 8848612,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[Focus] Keep Focus Mode When Adding Tabs From Another Window"
   }
 }
