@@ -213,12 +213,16 @@
       "cb6665e020c85e5d307ae58046ace46003b564f1",
       "44d8ccb34b02ee6bd41c6730148a3d7550e955a8",
       "388bc6ed0d5a7ff7b90b1030811549a1ee8a179a",
-      "62cf46220980b63af5c1b9c1fc264fcf36b0d21f"
+      "62cf46220980b63af5c1b9c1fc264fcf36b0d21f",
+      "eb290fd9770cf55504ac44bdee701f5461524372",
+      "5730fe2ce902d308165d6296d3b3e2ad4476efd8",
+      "fc9e2f80708b259ef31d39377375fb79120ddc2c",
+      "8653c1cfd0c3d7e59052c91c7e9cd4534410b2fe"
     ],
     "number": 8823781,
     "plus_ones": [],
     "review_votes": {},
-    "subject": "[CUJ] Plumb Focus Mode Entry Sources and Custom Element Events"
+    "subject": "[CUJ] Emit Focus Mode Custom Element Events from TabStripModel"
   },
   "chromium%2Fsrc~8827710": {
     "comment_ids": [],
@@ -448,7 +452,9 @@
       "7984f815557e44337bc1f3935f94a7c4934a4b04",
       "14c530a550a12727917bb449790014b89d614977",
       "16abc340221d2f0f24082c5ff81235df1ef5651e",
-      "1488d5b83ff0fdbdc62933214ccfca8d2ed2a3bb"
+      "1488d5b83ff0fdbdc62933214ccfca8d2ed2a3bb",
+      "5ed66757fa643648f660c60ec8172ea9e3b1554a",
+      "5aadaf6cce76c6dda5aca7c179732927afef747e"
     ],
     "number": 8844256,
     "plus_ones": [],
@@ -482,7 +488,10 @@
       "7d3a2416ad58f2041515f8ba65c0a5a041d533f6",
       "c7d7b835f9a57491bab92cdcf177f72bf5034d6a",
       "317a57eafcee9755d843cef04a923623305e5426",
-      "d43cbfa8dd4a2145272b87b15e21c10edf51a3b5"
+      "d43cbfa8dd4a2145272b87b15e21c10edf51a3b5",
+      "ee763e12827b0afe9d3c823d4d395a4394144878",
+      "c9d53f02c46b626e3c1694c2a06ba81aabf50725",
+      "b3ab1b9a3af8c32ae7e68d9d547cd8673bef5064"
     ],
     "number": 8853998,
     "plus_ones": [],
