@@ -449,5 +449,16 @@
     "plus_ones": [],
     "review_votes": {},
     "subject": "[Focus] Keep Focus Mode When Adding Tabs From Another Window"
+  },
+  "chromium%2Fsrc~8856011": {
+    "comment_ids": [],
+    "message_ids": [
+      "889c38619183d0ba9d81004cc32c9a499143fb6d",
+      "1bf431bda4c8ccfe4eeb5e2366773f1f988ba7e2"
+    ],
+    "number": 8856011,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[Focus] Fix Focus Mode Widget Accessibility Gaps"
   }
 }
