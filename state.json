@@ -211,12 +211,14 @@
     "comment_ids": [],
     "message_ids": [
       "cb6665e020c85e5d307ae58046ace46003b564f1",
-      "44d8ccb34b02ee6bd41c6730148a3d7550e955a8"
+      "44d8ccb34b02ee6bd41c6730148a3d7550e955a8",
+      "388bc6ed0d5a7ff7b90b1030811549a1ee8a179a",
+      "62cf46220980b63af5c1b9c1fc264fcf36b0d21f"
     ],
     "number": 8823781,
     "plus_ones": [],
     "review_votes": {},
-    "subject": "[CUJ] Register Tab Group Focus Mode Critical User Journey"
+    "subject": "[CUJ] Plumb Focus Mode Entry Sources and Custom Element Events"
   },
   "chromium%2Fsrc~8827710": {
     "comment_ids": [],
@@ -300,12 +302,14 @@
     "comment_ids": [],
     "message_ids": [
       "b016c533c9d1c0855d42658a1219e40872f59667",
-      "13384d61577d97da2d0cceaa5d7823ac513f0282"
+      "13384d61577d97da2d0cceaa5d7823ac513f0282",
+      "f092d437fb275e30e3b337bdcd63769c7aca1ca6",
+      "251d7beb33460bd6335147ed92efc38e545d56e4"
     ],
     "number": 8833912,
     "plus_ones": [],
     "review_votes": {},
-    "subject": "[CUJ] Register Non-Group Focus Mode Critical User Journey"
+    "subject": "[CUJ] Register Unified Focus Mode Critical User Journey"
   },
   "chromium%2Fsrc~8834962": {
     "comment_ids": [],
@@ -463,11 +467,23 @@
     "review_votes": {},
     "subject": "[Focus] Add Focus Mode Screen Reader Announcements"
   },
+  "chromium%2Fsrc~8854385": {
+    "comment_ids": [],
+    "message_ids": [
+      "7aee4dd4275e24dddd08f164a5b5df9e81c16f54"
+    ],
+    "number": 8854385,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[CUJ] Track Continuous Focus Mode Group Switches Across UI Surfaces"
+  },
   "chromium%2Fsrc~8856011": {
     "comment_ids": [],
     "message_ids": [
       "889c38619183d0ba9d81004cc32c9a499143fb6d",
-      "1bf431bda4c8ccfe4eeb5e2366773f1f988ba7e2"
+      "1bf431bda4c8ccfe4eeb5e2366773f1f988ba7e2",
+      "a2329e395e2d4183b2a9a73347a6bfb40f53fac2",
+      "ea7a8977cccc949ab1696c3eec309469c8a8d0f2"
     ],
     "number": 8856011,
     "plus_ones": [],
