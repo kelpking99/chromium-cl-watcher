@@ -450,6 +450,17 @@
     "review_votes": {},
     "subject": "[Focus] Keep Focus Mode When Adding Tabs From Another Window"
   },
+  "chromium%2Fsrc~8853998": {
+    "comment_ids": [],
+    "message_ids": [
+      "76830f298051da48aa05cc6b7021d113ed2b855e",
+      "59d2b613899cb85668d2437693111cc03178aa2d"
+    ],
+    "number": 8853998,
+    "plus_ones": [],
+    "review_votes": {},
+    "subject": "[Focus] Add Focus Mode Screen Reader Announcements"
+  },
   "chromium%2Fsrc~8856011": {
     "comment_ids": [],
     "message_ids": [
