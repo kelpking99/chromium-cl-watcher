@@ -460,12 +460,14 @@
     "comment_ids": [],
     "message_ids": [
       "76830f298051da48aa05cc6b7021d113ed2b855e",
-      "59d2b613899cb85668d2437693111cc03178aa2d"
+      "59d2b613899cb85668d2437693111cc03178aa2d",
+      "6f344172d688356d80c1df577e60516833d7a101",
+      "77ff49f556f58dd003afb9b28de8cec921710ede"
     ],
     "number": 8853998,
     "plus_ones": [],
     "review_votes": {},
-    "subject": "[Focus] Add Focus Mode Screen Reader Announcements"
+    "subject": "[Focus] Fix Focus Mode Screen Reader and Widget Accessibility"
   },
   "chromium%2Fsrc~8854385": {
     "comment_ids": [],
