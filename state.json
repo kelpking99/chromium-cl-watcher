@@ -346,12 +346,16 @@
       "4c6076af15d6b86d9f931cc0053117e805831f73",
       "ff2c6f190d9b111f2a6076bd9d93aaaa511905b0",
       "0e927a1a42b29c82f965949c392d15efe575a770",
-      "16bac38dad1703efbe326f46126cc52aa2716c26"
+      "16bac38dad1703efbe326f46126cc52aa2716c26",
+      "1d1d85ec5a9935b23bafeec6278148759dd74111",
+      "3d4a8895e8f4568e23e8b20bc8536a91f71e69e6",
+      "6d084c68c7ba28297e3b96c238d4656583582762"
     ],
     "number": 8833302,
     "plus_ones": [],
     "review_votes": {
-      "1524878": 1
+      "1524878": 1,
+      "1561057": 1
     },
     "subject": "[CUJ] Register Split View Critical User Journey"
   },
