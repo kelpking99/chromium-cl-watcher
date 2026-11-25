@@ -394,11 +394,14 @@
       "f623b9e2efffe1dd9c4abc966d54edb72d65f5a6",
       "d3d886244748a8b0547c5384ce4a8ca214cebd18",
       "b3ba64d8f01cccbb1dbfc66d36c6ecca33a0e04a",
-      "e26180032f2cd2aa1691f801237121421d07561f"
+      "e26180032f2cd2aa1691f801237121421d07561f",
+      "9249cdd872755bb6c3db6cf59bfc1325f9356615"
     ],
     "number": 8833912,
     "plus_ones": [],
-    "review_votes": {},
+    "review_votes": {
+      "1524878": 1
+    },
     "subject": "[CUJ] Register Unified Focus Mode Critical User Journey"
   },
   "chromium%2Fsrc~8834962": {
@@ -700,11 +703,14 @@
       "26e2e8670867cb463511e18e624fbc7918b61c6e",
       "004d4d0d960d505624317ee2eee1bfba2982525e",
       "42a2337ca5fba9bb3d6bb1fdda48e99fe96167a5",
-      "46f5768514804f5bfa997620528d16de42f9855e"
+      "46f5768514804f5bfa997620528d16de42f9855e",
+      "bcb3c2d1f81ddcedb8d47ac33d2ea9a4206037a4"
     ],
     "number": 8860775,
     "plus_ones": [],
-    "review_votes": {},
+    "review_votes": {
+      "4154277": 1
+    },
     "subject": "[Focus] Fix Hover Flake in PromotingEphemeralGroupAppliesGroupColors"
   }
 }
