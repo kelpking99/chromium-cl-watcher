@@ -603,11 +603,16 @@
       "c997f38230bbf302a51beb0a1e01c86c7575068e",
       "46d02572b459171dcf7678442894ea5663f520d9",
       "cbcbb958b51b9a98372cb950acad80e1935e1fdf",
-      "4f4187fdc87244a32db4cbf8aebddb33fb0ca406"
+      "4f4187fdc87244a32db4cbf8aebddb33fb0ca406",
+      "c76f491a36967f6904983bcee0a4d9081d5a8296",
+      "7467c44e1d3703fd0accd77aee341c89437c9b77",
+      "ba28b86829622c4852912c645fda7095b61b74cc"
     ],
     "number": 8854385,
     "plus_ones": [],
-    "review_votes": {},
+    "review_votes": {
+      "1549274": 1
+    },
     "subject": "[CUJ] Track Continuous Focus Mode Group Switches Across UI Surfaces"
   },
   "chromium%2Fsrc~8856011": {
