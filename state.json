@@ -231,11 +231,16 @@
       "3cb68fef86e9668033ef62bbcde3dc950e437a6f",
       "f42d61a469bedbe2b7469628930dec24fd145dbc",
       "6cbf0e1c24aaad96232a3aa75ebef235316178ba",
-      "67e3488a8d00c3b7d1e455dcb4239863922b6bac"
+      "67e3488a8d00c3b7d1e455dcb4239863922b6bac",
+      "94e27d2e9ba725359b3ec890333b77678a795a5c",
+      "ab2e604b24a4e65fc799517b146c423edcfa6b79",
+      "c66954a9d5a7ba00eb121b92cbc7609212af643c"
     ],
     "number": 8823781,
     "plus_ones": [],
-    "review_votes": {},
+    "review_votes": {
+      "1524878": 1
+    },
     "subject": "[CUJ] Emit Focus Mode Custom Element Events from TabStripModel"
   },
   "chromium%2Fsrc~8827710": {
@@ -544,7 +549,8 @@
       "37ec4ff2c96b9299a87997b3c5568027d681ca9f",
       "c38987f79c1442bacb2161c383a852a1b1a3902f",
       "b21f0c8afc7af02edf174df5490d8231319b31d5",
-      "87c65e0d9997e2465d2cc1d0b6149c846164c247"
+      "87c65e0d9997e2465d2cc1d0b6149c846164c247",
+      "36cd887a7fdbcb37d5830723eac4c108b5c08937"
     ],
     "number": 8848612,
     "plus_ones": [],
