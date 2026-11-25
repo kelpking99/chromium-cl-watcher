@@ -565,11 +565,14 @@
       "523ea90d2a7bc172433dbd89b31fd878d8b61c09",
       "3ae5d7b058cf0755c053a195e0e854c9eb9683b8",
       "b998f9084295540509eba1a6dc756dbfa7577ad8",
-      "03d4ae4071b16e0f387936b756b772b28391031c"
+      "03d4ae4071b16e0f387936b756b772b28391031c",
+      "276b50f30999503e29b6cc9c648035271cf09b75"
     ],
     "number": 8848612,
     "plus_ones": [],
-    "review_votes": {},
+    "review_votes": {
+      "1510672": 1
+    },
     "subject": "[Focus] Keep Focus Mode When Adding Tabs From Another Window"
   },
   "chromium%2Fsrc~8853998": {
@@ -704,7 +707,9 @@
       "004d4d0d960d505624317ee2eee1bfba2982525e",
       "42a2337ca5fba9bb3d6bb1fdda48e99fe96167a5",
       "46f5768514804f5bfa997620528d16de42f9855e",
-      "bcb3c2d1f81ddcedb8d47ac33d2ea9a4206037a4"
+      "bcb3c2d1f81ddcedb8d47ac33d2ea9a4206037a4",
+      "1f48859a1725927926c454fff3ca2d8765b1a95d",
+      "8b1cbe0ad2f4b76c20b967523f13cf041efc826c"
     ],
     "number": 8860775,
     "plus_ones": [],
